@@ -1,0 +1,29 @@
+The Stay Safe Online Checklist
+
+To stay safe online you should enable Two-Factor Authentication on your university email, media and banking apps. This means you will need to go beyond just using a password. Enable Two-Factor Authentication also known as 2FA to keep your accounts safe. You can use an authenticator app like Google Authenticator. Do not use SMS for Two-Factor Authentication because SIM-swapping is a way that people try to commit fraud.
+
+When you get a job or internship offer you should be careful. Be wary of people who contact you on WhatsApp or Telegram with offers that seem good to be true. These offers might promise you a lot of money for doing little work like data entry or liking videos on YouTube. Legitimate companies will never ask you to pay a security deposit or registration fee to get a job.
+
+You should also be careful when using the internet on campus. Public Wi-Fi, like the Wi-Fi in your hostel can be intercepted by people. To stay safe you can use a Virtual Private Network or VPN on your phone. You can also configure a DNS on your phone to encrypt your internet traffic. This will help prevent something called a Man-in-the-Middle attack, which's when someone tries to steal your login credentials.
+
+You should regularly check which apps have permission to access your microphone, camera and contacts. Some free apps, like study or photo-editing apps might be designed to collect your data and sell it to companies.
+
+To keep your devices safe you should always lock them with a PIN or biometric lock. Never leave your devices logged in and unattended even if it is for a minute. This is especially important in shared spaces like dorms or libraries.
+
+You should also be careful when clicking on links. Scammers often use shortened links, like bit.ly or tinyurl to hide websites. If someone sends you a link from a WhatsApp group you should hover over the link to see where it really goes before you click on it. You can also use a URL expander to see the destination of the link.
+
+Specific Financial and UPI Safety Tips
+
+There is a rule to remember when it comes to your UPI PIN: your PIN is for paying. This means you should never enter your UPI PIN or scan a QR code to receive money. If someone asks you to do this it is likely a scam. They might claim they are sending you a refund or a prize. It is probably just a trick to steal your money.
+
+When you are sending money to someone you should always verify their UPI ID carefully. Before you hit send check the verified name that is displayed in the app. Scammers often use names that're similar to official entities like "H0STEL_FEE" instead of "Hostel_Fee" to trick people.
+
+If You Are Targeted: How to Report
+
+If you are a victim of cybercrime or financial fraud you need to act. Speed is critical to freeze the transaction and recover your funds.
+
+The first thing you should do is call the National Cyber Crime Helpline at 1930
+
+Next you should report the incident online at the National Cyber Crime Reporting Portal, which's cybercrime.gov.in.
+
+You should also keep documentation of the incident including screenshots of the transaction the scammers number and any chat history. This will be evidence, for the authorities.
