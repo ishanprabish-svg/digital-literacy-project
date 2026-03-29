@@ -15,7 +15,7 @@ Task 2: Portfolio – Foundational profiles on platforms like LinkedIn and GitHu
 
 Task 3: Platforms – Evidence of coding challenges and a Digital Literacy Quiz.
 
-Quiz Link:
+Quiz Link: https://docs.google.com/forms/d/e/1FAIpQLSffpGPEMjYTCFALlasA_cVojyZE-pJLtjXlOlU1pAnf2QZjuA/viewform?usp=publish-editor
 
 Task 4: Professional Email & Etiquette – Professional email drafts and a social media checklist.
 
